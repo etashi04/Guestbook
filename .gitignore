@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pdb
+*.exe
+*.dll
+*.zip
+build/
+output/
+inputs/
+.env
+*.log
+*Backup*/

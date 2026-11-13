@@ -1,0 +1,3 @@
+﻿# 이계의 숙박부 한국어 패치 v1.0.0 / 2026-11-14
+76542ea9d5f3f6609ec4e96e406ac4e01c780a418fb62d695d563d1db7c84c00  Guestbook_Korean_Patch_v1.0.0.zip
+49c64bbbbff8f3327f4299cfef8976137406341d576a56bc66257627e1c3ef49  Guestbook_Korean_Patch_Manual_v1.0.0.zip

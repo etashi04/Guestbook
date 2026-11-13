@@ -1,0 +1,53 @@
+{
+  "version": "v1.0.0",
+  "steam_app_id": 4249520,
+  "steam_build": 26645119,
+  "files": [
+    {
+      "path": "Guestbook_Data/sharedassets0.assets",
+      "base_sha256": "d10a654457516a1e5818a149ee34f3ba7cdea1a97cf30ee90e69a901f5783f2d",
+      "patched_sha256": "ae864e4c666061e85448272e42fe182097327faaa1276a6202673027411c4dd3"
+    },
+    {
+      "path": "Guestbook_Data/level0",
+      "base_sha256": "1872fee053fcd414ef38998cd29cc5b16405c62a8a5f9a45e6844b3c0d200feb",
+      "patched_sha256": "78e047caf802734e86e8ee484e5985be6a54fb6ca2f80de93553c1f4eebd247e"
+    },
+    {
+      "path": "Guestbook_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "base_sha256": "a93c5efbe8ccf46500bf68d2cc2cc6ddebb22507974d2d08e270de1af44cefc6",
+      "patched_sha256": "0c823d62b15fb4f369305ca1b367ca8bb1a15cfff81f7b79d511563bef01215c"
+    },
+    {
+      "path": "Guestbook_Data/StreamingAssets/Movie/demo_jp.mp4",
+      "base_sha256": "476fa11284a6647df7e8422196685ed15dc531602486620dc9b7b6256ca0736a",
+      "patched_sha256": "77348909140112e677899aa460e628071b7393d4007a4fa36572c04eb85a04e0"
+    }
+  ],
+  "guards": [
+    {
+      "path": "Guestbook.exe",
+      "sha256": "e8bdf0d1a2455ff67b546e8585cf054da58c8adbe8dbffaab706db65081b2870"
+    },
+    {
+      "path": "GameAssembly.dll",
+      "sha256": "a5ba0271f6ef2b1021ba84bde4a0d448dd9b2739990ca1c72817a71e78009343"
+    },
+    {
+      "path": "Guestbook_Data/boot.config",
+      "sha256": "d7ea71d1f9909d521e22952a293e04ce124c0a0bae427b4a6bcd67538dfaca1f"
+    },
+    {
+      "path": "Guestbook_Data/globalgamemanagers",
+      "sha256": "f60baa259063c3f163faa822495a1c7d79a45ff4e3b39e486694ccb3e6565825"
+    },
+    {
+      "path": "Guestbook_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "sha256": "ed1c0b8b5f06f8b2d2e59e12f6442f869834b16f5c04e76c39f54bf03bd96819"
+    },
+    {
+      "path": "Guestbook_Data/resources.assets",
+      "sha256": "f0f2d81a6107f45cb974aff65a5a144e1dd291c9030c636a24b16085ac585c9a"
+    }
+  ]
+}
